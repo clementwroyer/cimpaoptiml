@@ -4,7 +4,7 @@
 
 This repository contains the material for the 6 sessions of the course.
 
-1) Introduction and gradient descent: [Slides](https://github.com/clementwroyer/cimpaoptiml/blob/main/slidesCIMPA-Part1.pdf)
+1) Introduction and gradient descent: [Slides](https://github.com/clementwroyer/cimpaoptiml/blob/main/slidesCIMPA25-Part1.pdf)
 2) Lab session around gradient descent: [Notebook](https://github.com/clementwroyer/cimpaoptiml/blob/main/Lab01-AroundGradientDescent.ipynb)
 3) Stochastic gradient
 4) Lab session around stochastic gradient
